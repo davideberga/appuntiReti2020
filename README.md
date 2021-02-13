@@ -1,5 +1,5 @@
 # appuntiReti2020
-Appunti di del corso di Reti tenuto da Paolo Casari (Anno 2020/21)
+Appunti del corso di Reti tenuto da Paolo Casari (Anno 2020/21)
 
 # Disclaimer
 
